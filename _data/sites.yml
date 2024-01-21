@@ -3132,7 +3132,12 @@
   url: https://thaumatorium.com/
   size: 53.3
   last_checked: 2022-04-26
-
+  
+- domain: thedaemon.space
+  url: http://thedaemon.space/
+  size: 7.8
+  last_checked: 2024-01-21
+  
 - domain: theden.sh
   url: https://theden.sh/
   size: 132
